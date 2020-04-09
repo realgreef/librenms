@@ -48,11 +48,11 @@ class Php extends BaseValidation
 
     private function checkVersion(Validator$validator)
     {
-        $min_version = '5.6.4';
+        $min_version = '7.2';
 
         // if update is not set to false and version is min or newer
         if (Config::get('update') && version_compare(PHP_VERSION, $min_version, '<')) {
-            $validator->warn('PHP version 5.6.4 is the minimum supported version as of January 10, 2018.  We recommend you update to PHP a supported version of PHP (7.1 suggested) to continue to receive updates.  If you do not update PHP, LibreNMS will continue to function but stop receiving bug fixes and updates.');
+            $validator->warn('PHP version 7.2 is the minimum supported version as of January 10, 2018.  We recommend you update to PHP a supported version of PHP (7.3 suggested) to continue to receive updates.  If you do not update PHP, LibreNMS will continue to function but stop receiving bug fixes and updates.');
         }
     }
 

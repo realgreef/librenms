@@ -2035,9 +2035,11 @@
                     "portName": null,
                     "ifIndex": 1,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2127,9 +2129,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2142,9 +2142,11 @@
                     "portName": null,
                     "ifIndex": 3,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2234,9 +2236,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2249,9 +2249,11 @@
                     "portName": null,
                     "ifIndex": 4,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2341,9 +2343,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2356,9 +2356,11 @@
                     "portName": null,
                     "ifIndex": 7,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2448,9 +2450,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2463,9 +2463,11 @@
                     "portName": null,
                     "ifIndex": 131073,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2555,9 +2557,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2570,9 +2570,11 @@
                     "portName": null,
                     "ifIndex": 35684352,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2662,9 +2664,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2677,9 +2677,11 @@
                     "portName": null,
                     "ifIndex": 35717120,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2769,9 +2771,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2784,9 +2784,11 @@
                     "portName": null,
                     "ifIndex": 35749888,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2876,9 +2878,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2891,9 +2891,11 @@
                     "portName": null,
                     "ifIndex": 35782656,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -2983,9 +2985,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -2998,9 +2998,11 @@
                     "portName": null,
                     "ifIndex": 35815424,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3090,9 +3092,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3105,9 +3105,11 @@
                     "portName": null,
                     "ifIndex": 35848192,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3197,9 +3199,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3212,9 +3212,11 @@
                     "portName": null,
                     "ifIndex": 39878656,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3304,9 +3306,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3319,9 +3319,11 @@
                     "portName": null,
                     "ifIndex": 39911424,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3411,9 +3413,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3426,9 +3426,11 @@
                     "portName": null,
                     "ifIndex": 39944192,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3518,9 +3520,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3533,9 +3533,11 @@
                     "portName": null,
                     "ifIndex": 39976960,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3625,9 +3627,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3640,9 +3640,11 @@
                     "portName": null,
                     "ifIndex": 40009728,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3732,9 +3734,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3747,9 +3747,11 @@
                     "portName": null,
                     "ifIndex": 40042496,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3839,9 +3841,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3854,9 +3854,11 @@
                     "portName": null,
                     "ifIndex": 40075264,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -3946,9 +3948,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -3961,9 +3961,11 @@
                     "portName": null,
                     "ifIndex": 69238784,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4053,9 +4055,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4068,9 +4068,11 @@
                     "portName": null,
                     "ifIndex": 69271552,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4160,9 +4162,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4175,9 +4175,11 @@
                     "portName": null,
                     "ifIndex": 100696064,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4267,9 +4269,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4282,9 +4282,11 @@
                     "portName": null,
                     "ifIndex": 100794368,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4374,9 +4376,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4389,9 +4389,11 @@
                     "portName": null,
                     "ifIndex": 102793216,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4481,9 +4483,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4496,9 +4496,11 @@
                     "portName": null,
                     "ifIndex": 102825984,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4588,9 +4590,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4603,9 +4603,11 @@
                     "portName": null,
                     "ifIndex": 234913792,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4695,9 +4697,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4710,9 +4710,11 @@
                     "portName": null,
                     "ifIndex": 268468224,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4802,9 +4804,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4817,9 +4817,11 @@
                     "portName": null,
                     "ifIndex": 1342177281,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -4909,9 +4911,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -4924,9 +4924,11 @@
                     "portName": null,
                     "ifIndex": 1342177282,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -5016,9 +5018,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5031,9 +5031,11 @@
                     "portName": null,
                     "ifIndex": 1342177283,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -5123,9 +5125,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5138,9 +5138,11 @@
                     "portName": null,
                     "ifIndex": 1493172258,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -5230,9 +5232,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5245,9 +5245,11 @@
                     "portName": null,
                     "ifIndex": 1509949473,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -5337,9 +5339,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5352,9 +5352,11 @@
                     "portName": null,
                     "ifIndex": 1509949478,
                     "ifSpeed": null,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -5444,9 +5446,7 @@
                     "ifOutMulticastPkts": null,
                     "ifOutMulticastPkts_prev": null,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 }
             ]
         },
@@ -5463,9 +5463,11 @@
                     "portName": null,
                     "ifIndex": 1,
                     "ifSpeed": null,
+                    "ifSpeed_prev": 0,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 0,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -5555,9 +5557,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5570,9 +5570,11 @@
                     "portName": null,
                     "ifIndex": 2,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -5662,9 +5664,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5677,9 +5677,11 @@
                     "portName": null,
                     "ifIndex": 3,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -5769,9 +5771,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5784,9 +5784,11 @@
                     "portName": null,
                     "ifIndex": 4,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -5876,9 +5878,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5891,9 +5891,11 @@
                     "portName": null,
                     "ifIndex": 5,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -5983,9 +5985,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -5998,9 +5998,11 @@
                     "portName": null,
                     "ifIndex": 6,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -6090,9 +6092,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6105,9 +6105,11 @@
                     "portName": null,
                     "ifIndex": 7,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -6197,9 +6199,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6212,9 +6212,11 @@
                     "portName": null,
                     "ifIndex": 8,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -6304,9 +6306,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6319,9 +6319,11 @@
                     "portName": null,
                     "ifIndex": 9,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -6411,9 +6413,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6426,9 +6426,11 @@
                     "portName": null,
                     "ifIndex": 10,
                     "ifSpeed": 20000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -6518,9 +6520,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6533,9 +6533,11 @@
                     "portName": null,
                     "ifIndex": 11,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -6625,9 +6627,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6640,9 +6640,11 @@
                     "portName": null,
                     "ifIndex": 1280,
                     "ifSpeed": 0,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -6732,9 +6734,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6747,9 +6747,11 @@
                     "portName": null,
                     "ifIndex": 131073,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -6839,9 +6841,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6854,9 +6854,11 @@
                     "portName": null,
                     "ifIndex": 131074,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -6946,9 +6948,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -6961,9 +6961,11 @@
                     "portName": null,
                     "ifIndex": 131075,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": null,
                     "ifPromiscuousMode": null,
                     "ifHighSpeed": null,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": null,
                     "ifOperStatus_prev": null,
                     "ifAdminStatus": null,
@@ -7053,9 +7055,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7068,9 +7068,11 @@
                     "portName": null,
                     "ifIndex": 35684352,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -7160,9 +7162,7 @@
                     "ifOutMulticastPkts": 186584,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7175,9 +7175,11 @@
                     "portName": null,
                     "ifIndex": 35717120,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -7267,9 +7269,7 @@
                     "ifOutMulticastPkts": 2396231,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7282,9 +7282,11 @@
                     "portName": null,
                     "ifIndex": 35749888,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -7374,9 +7376,7 @@
                     "ifOutMulticastPkts": 667252,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7389,9 +7389,11 @@
                     "portName": null,
                     "ifIndex": 35782656,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -7481,9 +7483,7 @@
                     "ifOutMulticastPkts": 98611,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7496,9 +7496,11 @@
                     "portName": null,
                     "ifIndex": 35815424,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": "down",
                     "ifAdminStatus": "down",
@@ -7588,9 +7590,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7603,9 +7603,11 @@
                     "portName": null,
                     "ifIndex": 35848192,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": "down",
                     "ifAdminStatus": "down",
@@ -7695,9 +7697,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7710,9 +7710,11 @@
                     "portName": null,
                     "ifIndex": 39878656,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -7802,9 +7804,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7817,9 +7817,11 @@
                     "portName": null,
                     "ifIndex": 39911424,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -7909,9 +7911,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -7924,9 +7924,11 @@
                     "portName": null,
                     "ifIndex": 39944192,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -8016,9 +8018,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8031,9 +8031,11 @@
                     "portName": null,
                     "ifIndex": 39976960,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -8123,9 +8125,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8138,9 +8138,11 @@
                     "portName": null,
                     "ifIndex": 40009728,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -8230,9 +8232,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8245,9 +8245,11 @@
                     "portName": null,
                     "ifIndex": 40042496,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -8337,9 +8339,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8352,9 +8352,11 @@
                     "portName": null,
                     "ifIndex": 40075264,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -8444,9 +8446,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": "transit",
@@ -8459,9 +8459,11 @@
                     "portName": null,
                     "ifIndex": 69238784,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -8551,9 +8553,7 @@
                     "ifOutMulticastPkts": 3608167,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8566,9 +8566,11 @@
                     "portName": null,
                     "ifIndex": 69271552,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -8658,9 +8660,7 @@
                     "ifOutMulticastPkts": 26593960,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8673,9 +8673,11 @@
                     "portName": null,
                     "ifIndex": 100696064,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 100,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -8765,9 +8767,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8780,9 +8780,11 @@
                     "portName": null,
                     "ifIndex": 100794368,
                     "ifSpeed": null,
+                    "ifSpeed_prev": 0,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 0,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": "down",
                     "ifAdminStatus": "up",
@@ -8872,9 +8874,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8887,9 +8887,11 @@
                     "portName": null,
                     "ifIndex": 102793216,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": "down",
                     "ifAdminStatus": "down",
@@ -8979,9 +8981,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -8994,9 +8994,11 @@
                     "portName": null,
                     "ifIndex": 102825984,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "down",
                     "ifOperStatus_prev": "down",
                     "ifAdminStatus": "down",
@@ -9086,9 +9088,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -9101,9 +9101,11 @@
                     "portName": null,
                     "ifIndex": 234913792,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 100,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -9193,9 +9195,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -9208,9 +9208,11 @@
                     "portName": null,
                     "ifIndex": 268468224,
                     "ifSpeed": 100000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "true",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 100,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -9300,9 +9302,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -9315,9 +9315,11 @@
                     "portName": null,
                     "ifIndex": 1342177281,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -9407,9 +9409,7 @@
                     "ifOutMulticastPkts": 186584,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -9422,9 +9422,11 @@
                     "portName": null,
                     "ifIndex": 1342177282,
                     "ifSpeed": 10000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 10000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -9514,9 +9516,7 @@
                     "ifOutMulticastPkts": 2396231,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -9529,9 +9529,11 @@
                     "portName": null,
                     "ifIndex": 1342177283,
                     "ifSpeed": 20000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 20000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -9621,9 +9623,7 @@
                     "ifOutMulticastPkts": 765863,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -9636,9 +9636,11 @@
                     "portName": null,
                     "ifIndex": 1493172258,
                     "ifSpeed": null,
+                    "ifSpeed_prev": 0,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 0,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -9728,9 +9730,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -9743,9 +9743,11 @@
                     "portName": null,
                     "ifIndex": 1509949473,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -9835,9 +9837,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 },
                 {
                     "port_descr_type": null,
@@ -9850,9 +9850,11 @@
                     "portName": null,
                     "ifIndex": 1509949478,
                     "ifSpeed": 40000000000,
+                    "ifSpeed_prev": null,
                     "ifConnectorPresent": "false",
                     "ifPromiscuousMode": "false",
                     "ifHighSpeed": 40000,
+                    "ifHighSpeed_prev": null,
                     "ifOperStatus": "up",
                     "ifOperStatus_prev": "up",
                     "ifAdminStatus": "up",
@@ -9942,9 +9944,7 @@
                     "ifOutMulticastPkts": 0,
                     "ifOutMulticastPkts_prev": 0,
                     "ifOutMulticastPkts_delta": null,
-                    "ifOutMulticastPkts_rate": null,
-                    "ifSpeed_prev": null,
-                    "ifHighSpeed_prev": null
+                    "ifOutMulticastPkts_rate": null
                 }
             ]
         }
